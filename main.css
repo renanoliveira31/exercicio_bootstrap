@@ -1,0 +1,16 @@
+.form-control {
+    border: 2px solid aquamarine; 
+    transition: border-color 0.3s;
+}
+
+.form-control:hover {
+    border-color: black; 
+}
+
+.body {
+    background-color: black;
+}
+
+.button {
+    margin-top: 2em;
+}
